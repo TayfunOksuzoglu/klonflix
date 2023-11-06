@@ -6,7 +6,7 @@ The project was bootstrapped with [Create React App](https://github.com/facebook
 
 ## Dependencies
 
-The project uses various dependencies such as `react`, `react-router-dom`, `firebase`, and `axios` for API requests.
+The project uses various dependencies such as `react`, `react-router-dom`, `firebase`, `tailwind` and `axios` for API requests.
 
 ## Components
 
